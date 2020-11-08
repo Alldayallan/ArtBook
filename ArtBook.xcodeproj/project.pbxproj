@@ -14,6 +14,7 @@
 		FDE2AEA925576051001C0505 /* ArtBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FDE2AEA725576051001C0505 /* ArtBook.xcdatamodeld */; };
 		FDE2AEAB25576052001C0505 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FDE2AEAA25576052001C0505 /* Assets.xcassets */; };
 		FDE2AEAE25576052001C0505 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FDE2AEAC25576052001C0505 /* LaunchScreen.storyboard */; };
+		FDE2AEB725576678001C0505 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDE2AEB625576678001C0505 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FDE2AEAA25576052001C0505 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FDE2AEAD25576052001C0505 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FDE2AEAF25576052001C0505 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FDE2AEB625576678001C0505 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				FDE2AE9E25576051001C0505 /* AppDelegate.swift */,
 				FDE2AEA025576051001C0505 /* SceneDelegate.swift */,
 				FDE2AEA225576051001C0505 /* ViewController.swift */,
+				FDE2AEB625576678001C0505 /* DetailsVC.swift */,
 				FDE2AEA425576051001C0505 /* Main.storyboard */,
 				FDE2AEAA25576052001C0505 /* Assets.xcassets */,
 				FDE2AEAC25576052001C0505 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				FDE2AE9F25576051001C0505 /* AppDelegate.swift in Sources */,
 				FDE2AEA925576051001C0505 /* ArtBook.xcdatamodeld in Sources */,
 				FDE2AEA125576051001C0505 /* SceneDelegate.swift in Sources */,
+				FDE2AEB725576678001C0505 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
